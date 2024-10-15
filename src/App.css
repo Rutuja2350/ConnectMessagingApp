@@ -1,0 +1,9 @@
+body {
+  --slack-color: green;
+  overflow: hidden;
+}
+
+.app_body{
+  display: flex;
+  height: 100vh;
+}
