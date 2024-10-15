@@ -21,6 +21,8 @@ Sequence :
 - User Authentication
 - Add State Provider
 
+- deploy to firebase
+
 To Dos :
 - create project on firebase
 - instal material ui with : 'npm install @material-ui/core' & 'npm install @material-ui/icons'
